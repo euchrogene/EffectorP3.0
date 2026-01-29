@@ -29,17 +29,17 @@ sudo rm Install_EffectorP3.0.sh
 EG_tools
 ```
 
-4. download example protein sequence
+3. download example protein sequence
 ```
 wget https://github.com/euchrogene/EffectorP3.0/raw/refs/heads/main/Example_protein.fa
 ```
 
-5. example command line
+4. example command line
 ```
 EffectorP3.0 -i Example_protein.fa
 ```
 
-6. show help contents
+5. show help contents
 ```
 EffectorP3.0
 ```
