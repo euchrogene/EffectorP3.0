@@ -19,9 +19,9 @@ Functions:
 
 1. install the software:
 ```
-wget https://github.com/euchrogene/InterProScan/raw/refs/heads/main/Install_InterProScan.sh
-sudo bash Install_InterProScan.sh
-sudo rm Install_InterProScan.sh
+wget https://github.com/euchrogene/EffectorP3.0/raw/refs/heads/main/Install_EffectorP3.0.sh
+sudo bash Install_EffectorP3.0.sh
+sudo rm Install_EffectorP3.0.sh
 ```
 
 2. display installed software
