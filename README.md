@@ -31,12 +31,12 @@ EG_tools
 
 4. download example protein sequence
 ```
-wget https://github.com/euchrogene/InterProScan_EG/raw/refs/heads/main/test_prot.fa
+wget https://github.com/euchrogene/EffectorP3.0/raw/refs/heads/main/Example_protein.fa
 ```
 
 5. example command line
 ```
-EffectorP3.0 -db_path InterProScan_DB -i test_prot.fa -dp -f TSV
+EffectorP3.0 -i Example_protein.fa
 ```
 
 6. show help contents
