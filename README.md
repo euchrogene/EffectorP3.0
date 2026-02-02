@@ -84,7 +84,7 @@ Usage;
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     
 Usage for EffectorP 3.0: 
-python EffectorP.py [-options] -i <input_file>
+EffectorP [-options] -i <input_file>
 
 where basic options are:
 -f : run in fungal mode
